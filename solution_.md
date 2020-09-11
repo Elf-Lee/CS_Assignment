@@ -43,5 +43,5 @@ plt.show()
 ```
 
 
-![png](output_5_0.png)
+![png](https://github.com/Elf-Lee/CS_Assignment/blob/master/Solution_.png)
 
